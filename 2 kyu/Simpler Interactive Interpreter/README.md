@@ -1,5 +1,5 @@
-### 
-Simpler Interactive interpreter (or REPL)
+
+### Simpler Interactive interpreter (or REPL)
 You will create an interpreter which takes inputs described below and produces outputs, storing state in between each input. This is a simplified version of the Simple Interactive Interpreter kata with functions removed, so if you have fun with this kata, check out its big brother to add functions into the mix.
 
 If you're not sure where to start with this kata, check out ankr's Evaluate Mathematical Expression kata.
