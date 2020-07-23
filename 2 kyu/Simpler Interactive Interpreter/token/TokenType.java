@@ -1,0 +1,5 @@
+package token;
+
+public enum TokenType {
+    NUMBER, IDENTIFIER, PLUS, MINUS, MUL, DIV, MOD, LEFT_PARENTHESIS, RIGHT_PARENTHESIS, EQUALS, EOF
+}
